@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Settings">
+        <menu>
+            <item android:id="@+id/sendotp" android:icon="@android:drawable/ic_menu_share"
+                android:title="Send My OTP" />
+            <item android:id="@+id/logout" android:icon="@android:drawable/ic_lock_idle_lock"
+                android:title="Logout" />
+            <item android:id="@+id/autosend" android:icon="@android:drawable/ic_dialog_map"
+                android:title="Auto Send OTP" />
+        </menu>
+    </item>
+
+</menu>

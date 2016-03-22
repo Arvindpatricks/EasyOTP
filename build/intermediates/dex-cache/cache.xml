@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/arvind/Documents/Projects/JusPay/EasyOTP/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-d44726e9d0ebd0c8da0535e73eb4e61cdf4f268e.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/arvind/Documents/Projects/JusPay/EasyOTP/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12-940e4378020c28f9eaa9924363e465eb38142355.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.1/11ea7eeda00b1bb92accba250ee7c8740bdebc19/firebase-client-jvm-2.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="11ea7eeda00b1bb92accba250ee7c8740bdebc19">
+        <dex dex="/Users/arvind/Documents/Projects/JusPay/EasyOTP/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.1-154ada9b0be425fd7698e315c32acd718b7b1932.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.1/8c94ae916de454be497782505e3e6fd437a28b95/firebase-client-android-2.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c94ae916de454be497782505e3e6fd437a28b95">
+        <dex dex="/Users/arvind/Documents/Projects/JusPay/EasyOTP/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.1-4741a104ddb2bd9fe02c383c4a085e67972e8ff6.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/arvind/Documents/Projects/JusPay/EasyOTP/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-4280333d14bd1dc59824998f19547d79333a3d14.jar" />
+    </item>
+    <item
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/arvind/Documents/Projects/JusPay/EasyOTP/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-086841472a3611210c8ed42f17cdeb80cf9e87db.jar" />
+    </item>
+
+</items>
